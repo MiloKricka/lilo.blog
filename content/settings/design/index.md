@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/waldszene-mit-verschiedenen-waldbaeumen_1308-57640.avif"
-logo = "/media/waldszene-mit-verschiedenen-waldbaeumen_1308-57640.avif"
-image = "/media/waldszene-mit-verschiedenen-waldbaeumen_1308-57640.avif"
+icon = "/media/pngtree-cartoon-forest-background-children-story-book-style-image_2113075.jpg"
+logo = "/media/pngtree-cartoon-forest-background-children-story-book-style-image_2113075.jpg"
+image = "/media/pngtree-cartoon-forest-background-children-story-book-style-image_2113075.jpg"
 color = "#5a4ae3"
 +++
