@@ -3,6 +3,7 @@ title = " Motorenlärm in Kinderherzen"
 date = "2024-02-20"
 draft = false
 pinned = false
+image = "https://lh7-us.googleusercontent.com/061V3LQQmhiZj2sUvzBp0bnqj4mI6e8DZnAeZ-q8fF9uKxD2jER2OoYxHEv-uek2-2ESQCjjJ3M_ghLG8pBoo7ujfzZI9Ave_13UPYOobb3qiTMCSNplVa33FfBKtUEWymhtDgp1OEfHbUUNedEJlw"
 +++
 {{<lead>}}Motorenlärm und Nikoläuse, die zwei Dinge helfen, kranken und verletzten Kindern aus dem Alltag zu entfliehen. Ein aufregendes und faszinierendes Spektakel, das einen höheren Nutzen bringt als nur eine lustige Zusammenkunft von Menschen und Nikoläusen. Dieses Event bringt Kinderherzen zum Strahlen und vertreibt alle trüben Gedanken aus deren Köpfen.{{</lead>}}
 
