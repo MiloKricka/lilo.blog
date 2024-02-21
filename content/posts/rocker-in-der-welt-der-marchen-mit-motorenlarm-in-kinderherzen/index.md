@@ -9,13 +9,7 @@ image = "https://lh7-us.googleusercontent.com/061V3LQQmhiZj2sUvzBp0bnqj4mI6e8DZn
 
 Arwen Loosli und Milo Abplanalp
 
-<!--StartFragment-->
-
-**![Ein Bild, das Fahrzeug, Landfahrzeug, Reifen, Gebäude enthält.
-
-Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/061V3LQQmhiZj2sUvzBp0bnqj4mI6e8DZnAeZ-q8fF9uKxD2jER2OoYxHEv-uek2-2ESQCjjJ3M_ghLG8pBoo7ujfzZI9Ave_13UPYOobb3qiTMCSNplVa33FfBKtUEWymhtDgp1OEfHbUUNedEJlw)**
-
-<!--EndFragment-->
+![](https://lh7-us.googleusercontent.com/061V3LQQmhiZj2sUvzBp0bnqj4mI6e8DZnAeZ-q8fF9uKxD2jER2OoYxHEv-uek2-2ESQCjjJ3M_ghLG8pBoo7ujfzZI9Ave_13UPYOobb3qiTMCSNplVa33FfBKtUEWymhtDgp1OEfHbUUNedEJlw)
 
 Jedes Jahr am 10. Dezember heulen im Bälliz in Thun die Motoren von Bikes auf und dies mitten im Trubel des Weihnachtsmarktes. Es ist klar, dass ein Spektakel wie dieses in Thun jedes Jahr viele Schaulustige anzieht, denn die Motorräder sind weihnachtlich geschmückt und die dazugehörigen Fahrer:innen als Nikoläuse verkleidet. Mittendrin direkt im ganzen Geschehen steht ein Tipi Zelt, in dem Kinder ganz gespannt einer Frau zuhören, die von sprechenden Tieren, geheimnisvollen Wäldern und vielen anderen mystischen Wesen erzählt. Diese zwei Welten, die unterschiedlicher nicht sein könnten, hängen auf emotionale und wundersame Weise zusammen. Taucht man genauer in das Geschehen auf diesem Weihnachtsmarkt ein, wird einem auch klar wie.
 
