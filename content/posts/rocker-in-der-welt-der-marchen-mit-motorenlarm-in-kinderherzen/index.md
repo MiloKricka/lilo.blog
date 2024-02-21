@@ -1,5 +1,5 @@
 +++
-title = "Mit Motorenlärm in Kinderherzen"
+title = "Mit Motorenlärm Kinderherzen erobern"
 date = "2024-02-20"
 draft = false
 pinned = false
