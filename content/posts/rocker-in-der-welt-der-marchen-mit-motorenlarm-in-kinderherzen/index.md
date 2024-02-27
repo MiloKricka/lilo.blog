@@ -3,13 +3,13 @@ title = "Mit Motorenlärm Kinderherzen erobern"
 date = "2024-02-20"
 draft = false
 pinned = false
-image = "https://lh7-us.googleusercontent.com/061V3LQQmhiZj2sUvzBp0bnqj4mI6e8DZnAeZ-q8fF9uKxD2jER2OoYxHEv-uek2-2ESQCjjJ3M_ghLG8pBoo7ujfzZI9Ave_13UPYOobb3qiTMCSNplVa33FfBKtUEWymhtDgp1OEfHbUUNedEJlw"
+image = "bild3.jpg"
 +++
 {{<lead>}}Motorenlärm und Nikoläuse, die zwei Dinge helfen, kranken und verletzten Kindern aus dem Alltag zu entfliehen. Ein aufregendes und faszinierendes Spektakel, das einen höheren Nutzen bringt als nur eine lustige Zusammenkunft von Menschen und Nikoläusen. Dieses Event bringt Kinderherzen zum Strahlen und vertreibt alle trüben Gedanken aus deren Köpfen.{{</lead>}}
 
 Arwen Loosli und Milo Abplanalp
 
-![Mit dem Tannenbaum im Gepäck über den Bälizplatz (Bild Milo Abplanalp)](https://lh7-us.googleusercontent.com/061V3LQQmhiZj2sUvzBp0bnqj4mI6e8DZnAeZ-q8fF9uKxD2jER2OoYxHEv-uek2-2ESQCjjJ3M_ghLG8pBoo7ujfzZI9Ave_13UPYOobb3qiTMCSNplVa33FfBKtUEWymhtDgp1OEfHbUUNedEJlw "Dem Tannenbaum im Gepäck über den Bälizplatz")
+![Mit dem Tannenbaum im Gepäck über den Bälizplatz (Bild Milo Abplanalp)](bild3.jpg "Dem Tannenbaum im Gepäck über den Bälizplatz")
 
 <!--StartFragment-->
 
