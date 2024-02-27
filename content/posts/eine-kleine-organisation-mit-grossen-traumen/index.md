@@ -1,6 +1,6 @@
 +++
 title = "Eine kleine Organisation mit grossen Träumen"
-date = "2024-02-27"
+date = "2024-02-26"
 draft = false
 pinned = false
 image = "bild1-1-.png"
