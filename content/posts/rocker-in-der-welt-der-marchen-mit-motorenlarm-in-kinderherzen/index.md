@@ -65,7 +65,7 @@ Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/SjAv6Y
 
 ![Ein Sprung in eine Märchenhafte weilt in einer schweren Zeit (Bild: Stefan Beuter)](bild2.jpg "Ein Sprung in eine Märchenhafte weilt in einer schweren Zeit (Bild: Stefan Beuter)")
 
-{{<Box>}}<!--StartFragment-->
+{{<Box>}}
 
 **Chindernetz Kanton Bern** 
 
@@ -73,6 +73,6 @@ Das Chindernetz Kanton Bern gehört ursprünglich zur Organisation Pro Juventute
 
 {{<Box>}}
 
-<!--EndFragment-->
+
 
 <!--EndFragment-->
