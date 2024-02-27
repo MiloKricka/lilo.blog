@@ -6,7 +6,7 @@ pinned = false
 image = "bild1-1-.png"
 description = ""
 +++
-{{</lead>}}Der Name ist noch nicht so bekannt, doch das verunsichert die Administratoren dieser Organisation keineswegs. Sie sind für alles zu haben. Eine Idee kommt auf und sie setzen sie um. Sie helfen Kindern und Jugendlichen und bieten eine grosse Anzahl an Angeboten an. {{</lead>}}
+{{<lead>}}Der Name ist noch nicht so bekannt, doch das verunsichert die Administratoren dieser Organisation keineswegs. Sie sind für alles zu haben. Eine Idee kommt auf und sie setzen sie um. Sie helfen Kindern und Jugendlichen und bieten eine grosse Anzahl an Angeboten an. {{</lead>}}
 
 <!--StartFragment-->
 
@@ -70,14 +70,6 @@ Wohnort:  Bowil emmental
 
 Angestellt seit: 2010
 
-{{<Box>}}
-
-
-
-
-
-
-
-
+{{</Box>}}
 
 <!--EndFragment-->
