@@ -13,8 +13,6 @@ Arwen Loosli und Milo Abplanalp
 
 <!--StartFragment-->
 
-
-
 Jedes Jahr am 10. Dezember heulen im Bälliz in Thun die Motoren von Bikes auf und dies mitten im Trubel des Weihnachtsmarktes. Es ist klar, dass ein Spektakel wie dieses in Thun jedes Jahr viele Schaulustige anzieht, denn die Motorräder sind weihnachtlich geschmückt und die dazugehörigen Fahrer:innen als Nikoläuse verkleidet. Mittendrin direkt im ganzen Geschehen steht ein Tipi, in dessen ruhigen inneren Kinder ganz gespannt eine Frau zuhören, die von sprechenden Tieren, geheimnisvollen Wäldern und vielen anderen mystischen Wesen erzählt. Diese zwei Welten, die unterschiedlicher nicht sein könnten, verbinden sich hier auf fast schon märchenhafte Weise. Taucht man genauer in das Geschehen auf diesem Weihnachtsmarkt ein, wird einem auch klar, wie diese magische Verbundenheit entsteht.
 
 ### Chlouse Ride
@@ -28,12 +26,6 @@ Um 14:30 wird es in Bälliz laut. Nacheinander werden die Motoren der Bikes gest
 Eine Organisation für Kinder
 
 Das “Chindernetz” unterstützt Jugendliche und Familien auf ihrem Lebensweg, sie lassen sich dabei durch vier Grundsätze leiten, Chancengerechtigkeit unterstützen, Gemeinschaft erleben, Erfahrungen teilen und Selbstwirksamkeit fördern. Diese Vier Grundsätze werden in zahlreichen Projekten des Chindernetzes umgesetzt, so wie zum Beispiel der Gott-Göttibatze. Dieser gibt Familien die finanzielle Möglichkeit, dass der Nachwuchs an sportlichen Aktivitäten teilnehmen kann. Die gemeinnützige Organisation setzt sich auch stark für Kinderrechte in der Schweiz ein und fördert die Politische Bildung in dem sie Lager für Schulklassen finanzieren und den Lehrpersonen nur eine Bedingung dafür auferlegen, nämlich muss das Lager eines der 17 Ziele der Agenda 2030 behandeln.
-
-
-
-
-
-
 
 ![Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)](bild1-1-.png "Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)")
 
@@ -61,13 +53,11 @@ Damit beendet er seine Erzählung und deutet kurz auf das Tipi-Zelt, bevor er si
 
 In diesem Tipi Zelt sitzen fünf aufmerksame Kinder auf weichen bunten Kissen und tauchen in die wundervolle Welt der Märchen ein. Sie schweben durch Täler und saftige Wiesen, begegnen bunten Gestalten und stellen sich mutig den feuerspeienden Wesen. Aber nicht nur Kinder hören zu, sondern auch Erwachsene lauschen gespannt und tauchen zusammen mit ihren Kindern in eine Welt ein, in der alles möglich ist. Mit dieser Aktion beginnen Kinderherzen zu strahlen und entführen diese jungen Gesichter aus der Welt des Inselspitals, in eine Welt voller Träume und Fantasien.
 
-**![Ein Bild, das Im Haus, Kleidung, Zimmer, Person enthält.
+\*\*![Ein Bild, das Im Haus, Kleidung, Zimmer, Person enthält.
 
-Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/Um6vkOKOXPuWv1lPN74y2_COmZRHAR5NuIPtcRFwG2E4_AtwPSBl-8hxheJ6suVLmTra1Fsj7Z5nXm793tnY6MBDSjfJFUdmmuZS4yF2F4qXnTx2EwGHB25DSIKtslp4OM7OlX7tc30Xmpn1-HPjWA)**
+Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/Um6vkOKOXPuWv1lPN74y2_COmZRHAR5NuIPtcRFwG2E4_AtwPSBl-8hxheJ6suVLmTra1Fsj7Z5nXm793tnY6MBDSjfJFUdmmuZS4yF2F4qXnTx2EwGHB25DSIKtslp4OM7OlX7tc30Xmpn1-HPjWA)\*\*
 
 <!--EndFragment-->
-
-
 
 ![Ein Sprung in eine Märchenhafte weilt in einer schweren Zeit (Bild: Stefan Beuter)](bild2.jpg "Ein Sprung in eine Märchenhafte weilt in einer schweren Zeit (Bild: Stefan Beuter)")
 
@@ -77,8 +67,6 @@ Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/Um6vkO
 
 Das Chindernetz Kanton Bern gehört ursprünglich zur Organisation Pro Juventute. Doch diese beschloss 2019, dass sie die kantonalen Organisationen nicht mehr fördern möchten und diese sich auflösen würden. Das Chindernetz schaffte aber den Sprung und konnte sich neu formen. Mittlerweile gewinnt das Chindernetz immer mehr Aufmerksamkeit und kann sich so umso mehr für Kinderrechte in der Schweiz einsetzen.
 
-{{<Box>}}
-
-
+{{</Box>}}
 
 <!--EndFragment-->
