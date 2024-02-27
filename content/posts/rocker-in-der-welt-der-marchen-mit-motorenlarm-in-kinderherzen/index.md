@@ -13,7 +13,7 @@ Arwen Loosli und Milo Abplanalp
 
 <!--StartFragment-->
 
-<!--StartFragment-->
+
 
 Jedes Jahr am 10. Dezember heulen im Bälliz in Thun die Motoren von Bikes auf und dies mitten im Trubel des Weihnachtsmarktes. Es ist klar, dass ein Spektakel wie dieses in Thun jedes Jahr viele Schaulustige anzieht, denn die Motorräder sind weihnachtlich geschmückt und die dazugehörigen Fahrer:innen als Nikoläuse verkleidet. Mittendrin direkt im ganzen Geschehen steht ein Tipi, in dessen ruhigen inneren Kinder ganz gespannt eine Frau zuhören, die von sprechenden Tieren, geheimnisvollen Wäldern und vielen anderen mystischen Wesen erzählt. Diese zwei Welten, die unterschiedlicher nicht sein könnten, verbinden sich hier auf fast schon märchenhafte Weise. Taucht man genauer in das Geschehen auf diesem Weihnachtsmarkt ein, wird einem auch klar, wie diese magische Verbundenheit entsteht.
 
@@ -21,15 +21,19 @@ Jedes Jahr am 10. Dezember heulen im Bälliz in Thun die Motoren von Bikes auf u
 
 In Bälliz dringt Motorenlärm und der Gestank von Abgasen über den Weihnachtsmarkt und wohin man auch blickt, der Platz ist mit unzähligen Motorrädern in allen Grössen übersät. Manche haben einen ganzen Tannenbaum hinten auf der Ladefläche, während andere mit Lametta bedeckt sind. Auch ein Junge mit seinem Tretroller und einem Anhänger voller Geschenke findet seinen Platz zwischen den grossen Maschinen. Neben all den Motorrädern stehen die als Nikoläuse verkleideten Rocker:innen, die sich lächelnd mit Passanten unterhalten. Rundherum drängen sich Spaziergänger, die über den grossen Weihnachtsmarkt schlendern. Das Ganze wird von lauter Weihnachtsmusik untermalt. Einige Passanten gehen langsam durch die Stände hindurch und schauen sich genau an, was hier passiert, während andere im Weihnachtsstress schnell vorbeigehen, mit Blicken auf den Gesichtern, die fragen, was der ganze Trubel hier eigentlich zu bedeuten hat.
 
-“Ich mache das jetzt seit fast 20 Jahren” (Seitengespräch mit einem der Rocker)
+*“Ich mache das jetzt seit fast 20 Jahren”* (Seitengespräch mit einem der Rocker)
 
 Um 14:30 wird es in Bälliz laut. Nacheinander werden die Motoren der Bikes gestartet und treiben die Menschenmasse auseinander. Gespannt sieht die zusammengedrückte Menschenmenge, wie sich die Rocker auf ihre Motorräder setzen und damit beginnen, sie fahrbereit zu machen. Dann, plötzlich, setzt sich das erste mit einem Tannenbaum geschmückte Motorrad knatternd in Bewegung und bahnt sich einen Weg durch die Besucher:innen des Weihnachtsmarktes. Immer wieder muss eine mit Leuchtweste ausgestattet Person dafür sorgen, dass sich die vom Glühwein schon leicht beschwipsten Menschen von der Strasse wegbewegen. Knapp hinter dem ersten Motorrad folgt schon das nächste, auf dem ein alter, freudig dreinblickender Rocker sitzt. Dazu wird über einen Lautsprecher laut "Jingle Bells Rock" gespielt, was die weihnachtliche Stimmung auf dem Markt nur noch verstärkt. Nachdem die rund 50 geschmückten Motorräder mit ihren verkleideten Fahrer:innen nacheinander langsam vorbei gerollt sind, sich der Geruch der Abgase langsam wieder verflüchtigt hat und es wieder nach Lebkuchen und Käse Raclette riecht, folgt ein weisser Lieferwagen mit offener Ladefläche. Darauf befinden sich zwei als Wichtel verkleidete Frauen, die mit Fischernetzen Spenden entgegennehmen oder den «Fünflibern» ausweichen, die auf den langsam rollenden Wagen geworfen werden. Oben auf der Kabine des Wagens befindet sich ein Schild, das den Grund für diesen Aufzug verrät. Das Ganze ist nämlich eine Spendenaktion des «Chindernetzes Bern». 
 
 Eine Organisation für Kinder
 
-Das “Chindernetz” unterstützt Jugendliche und Familien auf ihrem Lebensweg, sie lassen sich dabei durch vier Grundsätze leiten, Chancengerechtigkeit unterstützen, Gemeinschaft erleben, Erfahrungen teilen und Selbstwirksamkeit fördern. Diese Vier Grundsätze werden in zahlreichen Projekten des Chindernetzes umgesetzt, so wie zum Beispiel der Gott-Göttibatze. Dieser gibt Familien die finanzielle Möglichkeit, dass der Nachwuchs an sportlichen Aktivitäten teilnehmen kann. Die gemeinnützige Organisation setzt sich auch stark für Kinderrechte in der Schweiz ein und fördert die Politische Bildung in dem sie Lager für Schulklassen finanzieren und den Lehrpersonen nur eine Bedingung dafür auferlegen, nämlich muss das Lager eines der 17 ziele der Agenda 2030 behandeln. 
+Das “Chindernetz” unterstützt Jugendliche und Familien auf ihrem Lebensweg, sie lassen sich dabei durch vier Grundsätze leiten, Chancengerechtigkeit unterstützen, Gemeinschaft erleben, Erfahrungen teilen und Selbstwirksamkeit fördern. Diese Vier Grundsätze werden in zahlreichen Projekten des Chindernetzes umgesetzt, so wie zum Beispiel der Gott-Göttibatze. Dieser gibt Familien die finanzielle Möglichkeit, dass der Nachwuchs an sportlichen Aktivitäten teilnehmen kann. Die gemeinnützige Organisation setzt sich auch stark für Kinderrechte in der Schweiz ein und fördert die Politische Bildung in dem sie Lager für Schulklassen finanzieren und den Lehrpersonen nur eine Bedingung dafür auferlegen, nämlich muss das Lager eines der 17 Ziele der Agenda 2030 behandeln.
 
-<!--EndFragment-->
+
+
+
+
+
 
 ![Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)](bild1-1-.png "Der Mittelpunkt des Chindernetzes in der Längasse (Bild: Arwen Loosli)")
 
@@ -37,7 +41,7 @@ Das “Chindernetz” unterstützt Jugendliche und Familien auf ihrem Lebensweg,
 
 Das «Chindernetz» finanziert mit dieser weihnachtlichen Spendenaktion eines ihrer Projekte, nämlich das «Märli Erzählen» im Inselspital. Bei diesem Event werden kranken und verletzten Kindern Märchen erzählt und damit alle Gedanken an das Spitalbett aus ihren Köpfen vertrieben. Neben dieser Aktion veranstaltet das “Chindernetz” noch viele weitere Projekte und Spendenaktionen, wo nicht nur Erwachsene der Organisation helfen wollen:
 
-,,Wenn sich Kinder und Jugendliche selbst engagieren, um für uns Geld zu sammeln und anderen so zu helfen, ist das etwas, was mich am meisten rührt!’’, (Stefan Beutter)
+*,,Wenn sich Kinder und Jugendliche selbst engagieren, um für uns Geld zu sammeln und anderen so zu helfen, ist das etwas, was mich am meisten rührt!’’,* (Stefan Beutter)
 
 Stefan Beutter ist zusammen mit Eva Maria Jutzi (56) für das Administrative des “Chindernetztes” verantwortlich. Sie beide arbeiten mit einer grossen Leidenschaft und viel Herzblut für die Organisation “Chindernetz”.
 
@@ -51,17 +55,19 @@ Stefan Beutter macht eine kurze Pause und nimmt die Bestellung eines alten Manne
 
 Jeden Donnerstag Morgen machen sich die professionellen Märchenerzählerinnen auf den Weg ins Inselspital in die Kinderklinik. Dort werden sie vom Pflegepersonal instruiert, welchen Kindern sie kurz einen Besuch abstatten können und was ihre Bedürfnisse sind. Kurz darauf befinden sich die Märchenerzählerinnen schon in unterschiedlichen Zimmern und beginnen eines der vielen Märchen, die sie auswendig können, zu erzählen. Auch wenn dies meistens nur 2-3 Minuten sind, werden diese Momente den Kindern im Gedächtnis bleiben und lassen so einen kleinen Funken Hoffnung in ihrer schweren Zeit entfachen.
 
-,,Ein Kind war einmal so fasziniert von einem Märchen, dass es am Schluss auf dem Schoss der Erzählerin gelandet ist, um beinahe in die Geschichte hinein zu klettern. Ein andermal hat ein Flüchtlingskind, nachdem die Erzählerin bei ihm war, selber eine Geschichte geschrieben und diese uns dann geschenkt. Da merkt man, wie auch ein ruhiges Angebot wie dieses Spuren und Eindrücke bei den Kindern hinterlassen kann!’’, (Stefan Beutter)
+*,,Ein Kind war einmal so fasziniert von einem Märchen, dass es am Schluss auf dem Schoss der Erzählerin gelandet ist, um beinahe in die Geschichte hinein zu klettern. Ein andermal hat ein Flüchtlingskind, nachdem die Erzählerin bei ihm war, selber eine Geschichte geschrieben und diese uns dann geschenkt. Da merkt man, wie auch ein ruhiges Angebot wie dieses Spuren und Eindrücke bei den Kindern hinterlassen kann!’’,* (Stefan Beutter)
 
 Damit beendet er seine Erzählung und deutet kurz auf das Tipi-Zelt, bevor er sich dem Hotdogstand zuwendet und sich wieder auf seine Arbeit konzentriert. 
 
 In diesem Tipi Zelt sitzen fünf aufmerksame Kinder auf weichen bunten Kissen und tauchen in die wundervolle Welt der Märchen ein. Sie schweben durch Täler und saftige Wiesen, begegnen bunten Gestalten und stellen sich mutig den feuerspeienden Wesen. Aber nicht nur Kinder hören zu, sondern auch Erwachsene lauschen gespannt und tauchen zusammen mit ihren Kindern in eine Welt ein, in der alles möglich ist. Mit dieser Aktion beginnen Kinderherzen zu strahlen und entführen diese jungen Gesichter aus der Welt des Inselspitals, in eine Welt voller Träume und Fantasien.
 
-\*\*![Ein Bild, das Im Haus, Kleidung, Zimmer, Person enthält.
+**![Ein Bild, das Im Haus, Kleidung, Zimmer, Person enthält.
 
-Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/SjAv6YzL4YAP2aiRFrPykJyxJzp1gBuqWjhQ1dmghE10QhUe1BnB_WPE4y7w7X-dfNu9lhHqtjGUE0m9OvRbQRhb8o6M-P-4NrMuXBQMthd6ckl_GI4D7p8Hdq_V-EC8pgVM5hVwWaDk7IGusTJUXQ)\*\*
+Automatisch generierte Beschreibung](https://lh7-us.googleusercontent.com/Um6vkOKOXPuWv1lPN74y2_COmZRHAR5NuIPtcRFwG2E4_AtwPSBl-8hxheJ6suVLmTra1Fsj7Z5nXm793tnY6MBDSjfJFUdmmuZS4yF2F4qXnTx2EwGHB25DSIKtslp4OM7OlX7tc30Xmpn1-HPjWA)**
 
 <!--EndFragment-->
+
+
 
 ![Ein Sprung in eine Märchenhafte weilt in einer schweren Zeit (Bild: Stefan Beuter)](bild2.jpg "Ein Sprung in eine Märchenhafte weilt in einer schweren Zeit (Bild: Stefan Beuter)")
 
