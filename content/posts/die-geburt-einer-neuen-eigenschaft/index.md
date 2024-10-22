@@ -1,0 +1,25 @@
++++
+title = "Die Geburt einer neuen Eigenschaft"
+date = "2024-10-22"
+draft = false
+pinned = false
++++
+<!--StartFragment-->
+
+„Die Frau verliert immer mehr an Weiblichkeit.“ Dieser Satz taucht immer wieder auf, sei es bei Familientreffen, in hitzigen Diskussionen oder als flapsiger Kommentar in den sozialen Medien. Doch was steckt wirklich hinter dieser provokanten Aussage? Kritiker führen an, dass die Frau im Zuge ihrer Emanzipation an Weiblichkeit eingebüßt hat. Wenn wir einen genaueren Blick auf die Geschichte der Frauenrechte werfen, wird jedoch klar: Frauen sind heute stärker, selbstbewusster und wissen, dass sie die gleichen Rechte wie Männer verdienen. Die Frage, die sich dabei stellt, ist: Hat die Frau im Kampf um Gleichberechtigung tatsächlich ihre Weiblichkeit verloren?
+
+Sophia Loren sagte einmal: „Durch Emanzipation verliert die Frau ihre Weiblichkeit. Was kann Schlimmeres passieren?“ Dieses Zitat spiegelt eine verbreitete Befürchtung wider – dass Frauen ihre traditionelle Rolle verlassen und damit ihre „weibliche“ Identität verlieren. Doch was bedeutet Weiblichkeit überhaupt? Wenn man Weiblichkeit auf Hausarbeit, Kinderbetreuung und Gehorsam gegenüber dem Mann reduziert, dann mag es stimmen, dass viele Frauen sich von diesen althergebrachten Vorstellungen entfernt haben. Aber sollte Weiblichkeit wirklich so definiert werden?
+
+In Nadine A. Brüggers Buch „Helvetias Töchter“ wird der lange Kampf um das Frauenstimmrecht in der Schweiz anhand von acht Frauenschicksalen nachgezeichnet. Diese Geschichten zeigen, dass Frauen nicht nur für ihre politischen Rechte kämpften, sondern auch für die Möglichkeit, ein selbstbestimmtes Leben zu führen – ein Leben, das nicht auf traditionelle Rollenbilder reduziert ist. So wird deutlich, dass der Begriff der Weiblichkeit heute neu definiert werden muss. Denn das Wort „Weib“, von dem „Weiblichkeit“ abstammt, wurde lange Zeit abwertend verwendet, um Frauen auf eine bestimmte Rolle festzulegen.
+
+Wenn Weiblichkeit bedeutet, dass die Frau sich ausschließlich um Haushalt und Kinder kümmern muss, dann ist es nur zu begrüßen, dass sie an „Weiblichkeit“ verloren hat. Frauen wie die Protagonistinnen in „Helvetias Töchter“ haben gezeigt, dass sie stärker und selbstbewusster geworden sind, ohne dabei ihre Rolle als Mutter oder Partnerin aufzugeben. Ein eindrucksvolles Beispiel hierfür ist Amara, eine fiktive Figur aus dem Buch, die etwa 25 Jahre alt ist. Sie steht stellvertretend für viele junge Frauen, die ihre Selbstständigkeit leben, aber dennoch in ihren Partnerschaften einen gleichberechtigten Austausch suchen. Amara sagt: „Ich brauche jetzt vor allem einen Partner. Jemanden, auf den ich mich verlassen kann. Jemanden, der Dinge mit mir abspricht und nicht für sich allein entscheidet.“ (S. 339) Sie zeigt damit, dass moderne Weiblichkeit nicht bedeutet, die Familie zu verlassen, sondern die Verantwortung partnerschaftlich zu teilen.
+
+Die Vorstellung, dass Emanzipation zum Verlust der Weiblichkeit führt, greift also zu kurz. Statt von einem Verlust der Weiblichkeit zu sprechen, sollten wir eher von einem Gewinn an Gleichberechtigung reden. Der Kampf um gleiche Rechte hat den Frauen nicht ihre Identität genommen, sondern sie bereichert – sie haben neue Freiheiten und Verantwortungen erlangt. Ein prägnantes Beispiel aus Brüggers Buch ist Hélène, die nach jahrelangem Kampf schließlich studieren darf. Diese Erfahrung zeigt, dass die universitäre Welt lange Zeit Männern vorbehalten war und Hélène sich wie ein Fremdkörper fühlte. Mit dem Schritt ins Studium tritt sie jedoch aus der alten, „weiblichen“ Welt heraus und in die Welt der Gleichberechtigung ein.
+
+Es ist jedoch nicht nur die Frau, die sich verändert hat. Auch der Mann hat durch die zunehmende Gleichstellung einen Teil seiner „Männlichkeit“ eingebüßt. Die Zeiten, in denen der Mann als „diktatorischer Herrscher“ über die Frau gebot, gehen langsam zu Ende. Heutzutage setzen sich Männer wie der Freund von Amara, der im Buch als ambitionierter Kämpfer für Frauenrechte dargestellt wird, zunehmend für Gleichstellung ein – teils sogar entschlossener als manche Frauen. Die klassischen männlichen Attribute, wie alleinige Entscheidungsgewalt und Verantwortung für die Familie, weichen einem partnerschaftlichen Modell, in dem beide Geschlechter gleichberechtigt über ihre gemeinsame Zukunft entscheiden.
+
+Schlussendlich zeigt sich, dass der Abbau traditioneller Rollenbilder – sei es die „weiblichen“ oder die „männlichen“ – der einzige Weg hin zu echter Gleichberechtigung ist. Ja, Frauen haben vielleicht einen Teil ihrer alten Weiblichkeit verloren. Aber aus diesen vermeintlich verlorenen Eigenschaften ist etwas Neues entstanden: eine Eigenschaft, die nicht mehr von veralteten Rollenvorstellungen geprägt ist. In naher Zukunft wird niemand mehr sagen: „Du bist weiblich, weil du dich um die Kinder kümmerst“ oder „Du bist männlich, weil du die Familie ernährst“. Die Emanzipation der Frauen führt zur Geburt einer neuen Eigenschaft, die beide Geschlechter verbindet – die Menschlichkeit.
+
+4o
+
+<!--EndFragment-->
